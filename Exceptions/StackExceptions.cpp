@@ -1,4 +1,6 @@
-/* Task: Write exceptions for the stack data structure,
+/* Task in Replit(Compiler) - https://replit.com/@Bgns/Stacks-exceptions-or-77
+
+Task: Write exceptions for the stack data structure,
 catch and handle them appropriately.
 Завдання: напишіть винятки для структури даних стос,
 перехопіть і опрацюйте їх належним чином.*/

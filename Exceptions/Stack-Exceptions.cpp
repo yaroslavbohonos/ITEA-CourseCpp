@@ -1,4 +1,4 @@
-/* Task: Write exceptions for this data structure(stack),
+/* Task: Write exceptions for the stack data structure,
 catch and handle them appropriately.
 Завдання: напишіть винятки для структури даних стос,
 перехопіть і опрацюйте їх належним чином.*/

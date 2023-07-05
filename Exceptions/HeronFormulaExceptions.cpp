@@ -1,10 +1,7 @@
 /* Task in Replit(Compiler) - https://replit.com/@Bgns/Herons-Formula-Exceptions-or-76#
 
 Task: Write a program that calculates the area of a triangle. This program should use custom exceptions.
-Add a specific attribute to the exception to pass a message to the user.
-
-Завдання: Напишіть програму, яка обчислює площу трикутника. Ця програма має використовувати ваші власні 
-винятки для спілкування з кодом вищого рівня. Додайте певний атрибут за винятком, щоб передати повідомлення користувачеві.*/
+Add a specific attribute to the exception to pass a message to the user. */
 
 #include <iostream>
 #include <cmath>

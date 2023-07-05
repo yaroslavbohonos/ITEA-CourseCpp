@@ -1,3 +1,5 @@
+/* Goal: Try to make your own library */
+
 #include <iostream>
 using namespace std;
 

@@ -1,4 +1,4 @@
-# Welcome to the 'C++ Pro' Course Project Showcases!
+# Welcome to the 'C++ Pro' Course My Projects Showcases!
 This repository serves as a platform for showcasing my C++ projects completed throughout a coding course  'C++ Pro' which taught by IT Education Academy in Ukraine. Each project within this repository represents a culmination of my skills and main knowledge gained during the course. 
 
 **How to Explore:**
